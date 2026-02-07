@@ -22,8 +22,8 @@ Ensure you have **Python 3.9+** installed.
 ### 2. Installation
 Clone the repository and install the dependencies:
 ```bash
-git clone [https://github.com/your-username/redline-ai.git](https://github.com/your-username/redline-ai.git)
-cd redline-ai
+git clone [https://github.com/Sarahh716/AIFraudMonitoring.git](https://github.com/Sarahh716/AIFraudMonitoring.git)
+cd AIFraudMonitoring
 pip install streamlit pandas plotly openpyxl
 
 ```
