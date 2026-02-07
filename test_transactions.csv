@@ -1,0 +1,101 @@
+Transaction_ID,User_ID,Amount,Type,Merchant,City
+TXN-1000,USER-505,261.35,Retail Purchase,Amazon,Unknown
+TXN-1001,USER-520,23827.97,International Wire,Local Shop,Dubai
+TXN-1002,USER-530,141.16,Retail Purchase,Local Shop,Unknown
+TXN-1003,USER-595,15.48,Retail Purchase,Global Exchange,New York
+TXN-1004,USER-506,50.06,Retail Purchase,Casino-Online,New York
+TXN-1005,USER-589,278.88,Retail Purchase,Casino-Online,Unknown
+TXN-1006,USER-515,13.33,Retail Purchase,Global Exchange,Dubai
+TXN-1007,USER-511,400.49,Retail Purchase,Global Exchange,Dubai
+TXN-1008,USER-535,177.42,Retail Purchase,Global Exchange,London
+TXN-1009,USER-500,27.8,Retail Purchase,Local Shop,New York
+TXN-1010,USER-585,56.51,Retail Purchase,Global Exchange,London
+TXN-1011,USER-596,184.65,Retail Purchase,Casino-Online,Dubai
+TXN-1012,USER-598,473.0,Retail Purchase,Global Exchange,New York
+TXN-1013,USER-557,416.53,Retail Purchase,Amazon,New York
+TXN-1014,USER-515,307.92,Retail Purchase,Amazon,London
+TXN-1015,USER-511,238.25,Retail Purchase,Amazon,London
+TXN-1016,USER-546,34.54,Retail Purchase,Local Shop,New York
+TXN-1017,USER-566,203.76,Retail Purchase,Local Shop,Dubai
+TXN-1018,USER-530,238.44,Retail Purchase,Casino-Online,Dubai
+TXN-1019,USER-503,319.67,Retail Purchase,Global Exchange,Unknown
+TXN-1020,USER-596,232.74,Retail Purchase,Amazon,Unknown
+TXN-1021,USER-560,202.2,Retail Purchase,Casino-Online,Unknown
+TXN-1022,USER-502,48325.13,International Wire,Casino-Online,Dubai
+TXN-1023,USER-564,369.11,Retail Purchase,Local Shop,London
+TXN-1024,USER-599,199.45,Retail Purchase,Amazon,New York
+TXN-1025,USER-597,461.91,Retail Purchase,Casino-Online,Unknown
+TXN-1026,USER-524,121.41,Retail Purchase,Global Exchange,Dubai
+TXN-1027,USER-501,258.34,Retail Purchase,Local Shop,New York
+TXN-1028,USER-543,181.16,Retail Purchase,Global Exchange,London
+TXN-1029,USER-516,168.87,Retail Purchase,Local Shop,New York
+TXN-1030,USER-504,439.57,Retail Purchase,Local Shop,New York
+TXN-1031,USER-529,143.47,Retail Purchase,Amazon,Unknown
+TXN-1032,USER-563,228.05,Retail Purchase,Global Exchange,Dubai
+TXN-1033,USER-508,304.98,Retail Purchase,Casino-Online,Unknown
+TXN-1034,USER-514,99.8,Retail Purchase,Amazon,New York
+TXN-1035,USER-554,147.61,Retail Purchase,Casino-Online,New York
+TXN-1036,USER-540,64.46,Retail Purchase,Global Exchange,New York
+TXN-1037,USER-553,455.88,Retail Purchase,Global Exchange,Dubai
+TXN-1038,USER-538,164.93,Retail Purchase,Global Exchange,Unknown
+TXN-1039,USER-563,85.76,Retail Purchase,Casino-Online,Unknown
+TXN-1040,USER-515,397.71,Retail Purchase,Global Exchange,London
+TXN-1041,USER-598,165.92,Retail Purchase,Casino-Online,Dubai
+TXN-1042,USER-501,37035.14,International Wire,Local Shop,Unknown
+TXN-1043,USER-513,299.8,Retail Purchase,Global Exchange,Dubai
+TXN-1044,USER-568,341.72,Retail Purchase,Casino-Online,London
+TXN-1045,USER-567,279.11,Retail Purchase,Amazon,Unknown
+TXN-1046,USER-594,327.92,Retail Purchase,Global Exchange,Dubai
+TXN-1047,USER-589,266.94,Retail Purchase,Amazon,New York
+TXN-1048,USER-548,135.63,Retail Purchase,Global Exchange,Dubai
+TXN-1049,USER-543,108.09,Retail Purchase,Amazon,Dubai
+TXN-1050,USER-595,139.48,Retail Purchase,Global Exchange,Dubai
+TXN-1051,USER-559,336.06,Retail Purchase,Amazon,Unknown
+TXN-1052,USER-574,217.0,Retail Purchase,Local Shop,New York
+TXN-1053,USER-595,117.1,Retail Purchase,Global Exchange,London
+TXN-1054,USER-535,314.88,Retail Purchase,Global Exchange,Dubai
+TXN-1055,USER-503,192.2,Retail Purchase,Casino-Online,New York
+TXN-1056,USER-593,184.48,Retail Purchase,Global Exchange,Dubai
+TXN-1057,USER-600,205.29,Retail Purchase,Amazon,London
+TXN-1058,USER-549,172.3,Retail Purchase,Local Shop,Dubai
+TXN-1059,USER-516,368.28,Retail Purchase,Local Shop,Unknown
+TXN-1060,USER-553,404.79,Retail Purchase,Casino-Online,Dubai
+TXN-1061,USER-582,384.95,Retail Purchase,Casino-Online,Unknown
+TXN-1062,USER-534,257.82,Retail Purchase,Casino-Online,Unknown
+TXN-1063,USER-535,461.94,Retail Purchase,Global Exchange,London
+TXN-1064,USER-524,30083.34,International Wire,Local Shop,London
+TXN-1065,USER-538,366.33,Retail Purchase,Global Exchange,New York
+TXN-1066,USER-525,372.72,Retail Purchase,Casino-Online,New York
+TXN-1067,USER-518,210.47,Retail Purchase,Amazon,New York
+TXN-1068,USER-504,128.08,Retail Purchase,Local Shop,Dubai
+TXN-1069,USER-544,380.52,Retail Purchase,Local Shop,London
+TXN-1070,USER-555,446.88,Retail Purchase,Global Exchange,London
+TXN-1071,USER-533,27.8,Retail Purchase,Local Shop,Unknown
+TXN-1072,USER-528,27838.36,International Wire,Local Shop,Dubai
+TXN-1073,USER-514,367.37,Retail Purchase,Casino-Online,London
+TXN-1074,USER-550,61.36,Retail Purchase,Casino-Online,New York
+TXN-1075,USER-571,364.43,Retail Purchase,Local Shop,Unknown
+TXN-1076,USER-538,412.92,Retail Purchase,Casino-Online,London
+TXN-1077,USER-555,499.95,Retail Purchase,Amazon,Unknown
+TXN-1078,USER-561,118.34,Retail Purchase,Casino-Online,Unknown
+TXN-1079,USER-528,63.39,Retail Purchase,Global Exchange,London
+TXN-1080,USER-554,267.1,Retail Purchase,Local Shop,Unknown
+TXN-1081,USER-595,15061.23,International Wire,Amazon,Unknown
+TXN-1082,USER-595,52.09,Retail Purchase,Amazon,Dubai
+TXN-1083,USER-522,309.24,Retail Purchase,Casino-Online,London
+TXN-1084,USER-569,467.56,Retail Purchase,Casino-Online,London
+TXN-1085,USER-557,97.06,Retail Purchase,Local Shop,London
+TXN-1086,USER-597,216.59,Retail Purchase,Casino-Online,New York
+TXN-1087,USER-548,24899.5,International Wire,Casino-Online,London
+TXN-1088,USER-535,315.63,Retail Purchase,Casino-Online,London
+TXN-1089,USER-573,374.6,Retail Purchase,Local Shop,Dubai
+TXN-1090,USER-508,46526.01,International Wire,Local Shop,Dubai
+TXN-1091,USER-551,106.31,Retail Purchase,Amazon,Unknown
+TXN-1092,USER-506,245.16,Retail Purchase,Local Shop,London
+TXN-1093,USER-585,387.36,Retail Purchase,Local Shop,Unknown
+TXN-1094,USER-591,385.44,Retail Purchase,Amazon,Unknown
+TXN-1095,USER-561,407.78,Retail Purchase,Amazon,Dubai
+TXN-1096,USER-520,272.65,Retail Purchase,Amazon,London
+TXN-1097,USER-502,166.7,Retail Purchase,Global Exchange,London
+TXN-1098,USER-580,391.27,Retail Purchase,Amazon,Unknown
+TXN-1099,USER-569,426.06,Retail Purchase,Global Exchange,Dubai
