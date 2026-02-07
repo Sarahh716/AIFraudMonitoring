@@ -1,7 +1,4 @@
-# AIFraudMonitoring
-
-```markdown
-# 🚨 RedLine AI | Fraud Monitoring Terminal
+# AI Fraud Monitoring Terminal 
 
 **RedLine AI** is a high-fidelity, cyber-industrial financial surveillance terminal. It bridges the gap between complex data analytics and high-urgency risk management, providing analysts with a "System-Critical" interface for real-time threat detection.
 
