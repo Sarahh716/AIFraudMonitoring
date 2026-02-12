@@ -1,7 +1,4 @@
-# AIFraudMonitoring
-
-```markdown
-# 🚨 RedLine AI | Fraud Monitoring Terminal
+# AI Fraud Monitoring Terminal 
 
 **RedLine AI** is a high-fidelity, cyber-industrial financial surveillance terminal. It bridges the gap between complex data analytics and high-urgency risk management, providing analysts with a "System-Critical" interface for real-time threat detection.
 
@@ -25,9 +22,9 @@ Ensure you have **Python 3.9+** installed.
 ### 2. Installation
 Clone the repository and install the dependencies:
 ```bash
-git clone [https://github.com/your-username/redline-ai.git](https://github.com/your-username/redline-ai.git)
-cd redline-ai
-pip install streamlit pandas plotly openpyxl
+git clone [https://github.com/Sarahh716/AIFraudMonitoring.git](https://github.com/Sarahh716/AIFraudMonitoring.git)
+cd AIFraudMonitoring
+pip install -r requirements.txt
 
 ```
 
